@@ -1,0 +1,512 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "The Shawshank Redemption",
+      "image": [
+        "/images/m7.jpg",
+        "/images/m6.jpg",
+        "/images/m5.jpg",
+        "/images/m4.jpg"
+      ],
+      "url": [
+        {
+          "src": "https://cdn.fluidplayer.com/videos/valerian-1080p.mkv",
+          "type": "video/mp4",
+          "label": "720P"
+        },
+        {
+          "src": "/videos/v1.mp4",
+          "type": "video/mp4",
+          "label": "480P"
+        }
+      ],
+      "banner": "/images/banner1.jpg",
+      "description": "Yeah, but your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should...",
+      "information": {
+        "IMDB Rating": "5",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "Joss Whedon",
+        "Writer": "Joss Whedon",
+        "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+        "Producer": "Kevin Feige",
+        "Release Date": "4 May 2012",
+        "Language": "English",
+        "Subtitle": "English, Hindi, Tamil, Telugu"
+      }
+    },
+    {
+      "id": "2",
+      "title": "The Godfather",
+      "image": [
+        "/images/m8.jpg",
+        "/images/m7.jpg",
+        "/images/m6.jpg"
+      ],
+      "url": [
+        {
+          "src": "/videos/v2.mp4",
+          "type": "video/mp4",
+          "label": "720P"
+        },
+        {
+          "src": "/videos/v1.mp4",
+          "type": "video/mp4",
+          "label": "480P"
+        }
+      ],
+      "banner": "/images/banner2.jpg",
+      "description": "I'm gonna make him an offer he can't refuse.",
+      "information": {
+        "IMDB Rating": "5",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "Joss Whedon",
+        "Writer": "Joss Whedon",
+        "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+        "Producer": "Kevin Feige",
+        "Release Date": "4 May 2012",
+        "Language": "English",
+        "Subtitle": "English, Hindi, Tamil, Telugu"
+      }
+    },
+    {
+      "id": "3",
+      "title": "The Godfather: Part II",
+      "image": [
+        "/images/m4.jpg",
+        "/images/m6.jpg",
+        "/images/m5.jpg"
+      ],
+      "url": [
+        {
+          "src": "/videos/v1.mp4",
+          "type": "video/mp4",
+          "label": "720P"
+        },
+        {
+          "src": "https://cdn.fluidplayer.com/videos/valerian-1080p.mkv",
+          "type": "video/mp4",
+          "label": "480P"
+        }
+      ],
+      "banner": "/images/banner3.jpg",
+      "description": "Just when I thought I was out, they pull me back in.",
+      "information": {
+        "IMDB Rating": "4",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "Joss Whedon",
+        "Writer": "Joss Whedon",
+        "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+        "Producer": "Kevin Feige",
+        "Release Date": "4 May 2012",
+        "Language": "English",
+        "Subtitle": "English, Hindi, Tamil, Telugu"
+      }
+    },
+    {
+      "id": "4",
+      "title": "The Dark Knight",
+      "image": [
+        "/images/m2.jpg",
+        "/images/m3.jpg",
+        "/images/m4.jpg"
+      ],
+      "url": [
+        {
+          "src": "https://cdn.fluidplayer.com/videos/valerian-1080p.mkv",
+          "type": "video/mp4",
+          "label": "720P"
+        },
+        {
+          "src": "/videos/v1.mp4",
+          "type": "video/mp4",
+          "label": "480P"
+        }
+      ],
+      "banner": "/images/banner4.jpg",
+      "description": "Why so serious?",
+      "information": {
+        "IMDB Rating": "3",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "Joss Whedon",
+        "Writer": "Joss Whedon",
+        "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+        "Producer": "Kevin Feige",
+        "Release Date": "4 May 2012",
+        "Language": "English",
+        "Subtitle": "English, Hindi, Tamil, Telugu"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Apocalypse Now",
+      "image": [
+        "/images/m1.jpg",
+        "/images/m5.jpg",
+        "/images/m2.jpg"
+      ],
+      "url": [
+        {
+          "src": "https://cdn.fluidplayer.com/videos/valerian-1080p.mkv",
+          "type": "video/mp4",
+          "label": "720P"
+        },
+        {
+          "src": "/videos/v1.mp4",
+          "type": "video/mp4",
+          "label": "480P"
+        }
+      ],
+      "banner": "/images/banner4.jpg",
+      "description": "I love the smell of napalm in the morning.",
+      "information": {
+        "IMDB Rating": "1",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "Joss Whedon",
+        "Writer": "Joss Whedon",
+        "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+        "Producer": "Kevin Feige",
+        "Release Date": "4 May 2012",
+        "Language": "English",
+        "Subtitle": "English, Hindi, Tamil, Telugu"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Apocalypse Now II",
+      "image": [
+        "/images/m1.jpg",
+        "/images/m5.jpg",
+        "/images/m2.jpg"
+      ],
+      "url": [
+        {
+          "src": "https://cdn.fluidplayer.com/videos/valerian-1080p.mkv",
+          "type": "video/mp4",
+          "label": "720P"
+        },
+        {
+          "src": "/videos/v1.mp4",
+          "type": "video/mp4",
+          "label": "480P"
+        }
+      ],
+      "banner": "/images/banner4.jpg",
+      "description": "I love the smell of napalm in the morning.",
+      "information": {
+        "IMDB Rating": "1",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "Joss Whedon",
+        "Writer": "Joss Whedon",
+        "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+        "Producer": "Kevin Feige",
+        "Release Date": "4 May 2012",
+        "Language": "English",
+        "Subtitle": "English, Hindi, Tamil, Telugu"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Spider Man",
+      "image": [
+        "/images/m1.jpg",
+        "/images/m5.jpg",
+        "/images/m2.jpg"
+      ],
+      "url": [
+        {
+          "src": "https://cdn.fluidplayer.com/videos/valerian-1080p.mkv",
+          "type": "video/mp4",
+          "label": "720P"
+        },
+        {
+          "src": "/videos/v1.mp4",
+          "type": "video/mp4",
+          "label": "480P"
+        }
+      ],
+      "banner": "/images/banner4.jpg",
+      "description": "I love the smell of napalm in the morning.",
+      "information": {
+        "IMDB Rating": "1",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "Joss Whedon",
+        "Writer": "Joss Whedon",
+        "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+        "Producer": "Kevin Feige",
+        "Release Date": "4 May 2012",
+        "Language": "English",
+        "Subtitle": "English, Hindi, Tamil, Telugu"
+      }
+    }
+  ],
+  "series": [
+    {
+      "id": "1",
+      "title": "Breaking Bad",
+      "image": [
+        "/images/s1.jpg",
+        "/images/s2.jpg"
+      ],
+      "banner": "/images/banner1.jpg",
+      "description": "Yeah, but your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should...",
+      "information": {
+        "IMDB Rating": "5",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "Joss Whedon",
+        "Writer": "Joss Whedon",
+        "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+        "Producer": "Kevin Feige",
+        "Release Date": "4 May 2012",
+        "Language": "English",
+        "Subtitle": "English, Hindi, Tamil, Telugu"
+      },
+      "seasons": [
+        {
+          "id": "11",
+          "season": "Season 1",
+          "episodes": [
+            {
+              "id": "111",
+              "episode": "Episode 1",
+              "title": "Pilot",
+              "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+              "image": [
+                "/images/ep1.jpg"
+              ],
+              "url": [
+                {
+                  "src": "https://cdn.fluidplayer.com/videos/valerian-1080p.mkv",
+                  "type": "video/mp4",
+                  "label": "720P"
+                },
+                {
+                  "src": "/videos/v1.mp4",
+                  "type": "video/mp4",
+                  "label": "480P"
+                }
+              ]
+            },
+            {
+              "id": "112",
+              "episode": "Episode 2",
+              "title": "Cat's in the Bag...",
+              "description": "Walt and Jesse try to figure out what to do with the body of",
+              "image": [
+                "/images/ep2.jpg"
+              ],
+              "url": [
+                {
+                  "src": "https://cdn.fluidplayer.com/videos/valerian-1080p.mkv",
+                  "type": "video/mp4",
+                  "label": "720P"
+                },
+                {
+                  "src": "/videos/v1.mp4",
+                  "type": "video/mp4",
+                  "label": "480P"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "season": "Season 2",
+          "episodes": [
+            {
+              "id": "121",
+              "episode": "Episode 1",
+              "title": "Pilot But Different",
+              "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+              "image": [
+                "/images/ep3.jpg"
+              ]
+            },
+            {
+              "id": "122",
+              "episode": "Episode 2",
+              "title": "Cat's in the Bag But Different",
+              "description": "Walt and Jesse try to figure out what to do with the body of",
+              "image": [
+                "/images/ep4.jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "The Witcher",
+      "image": [
+        "/images/s2.jpg",
+        "/images/s3.jpg"
+      ],
+      "banner": "/images/banner2.jpg",
+      "description": "Yeah, but your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should...",
+      "information": {
+        "IMDB Rating": "4",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "Joss Whedon",
+        "Writer": "Joss Whedon",
+        "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+        "Producer": "Kevin Feige",
+        "Release Date": "4 May 2012",
+        "Language": "English",
+        "Subtitle": "English, Hindi, Tamil, Telugu"
+      },
+      "seasons": [
+        {
+          "id": "21",
+          "season": "Season 1",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "title": "Pilot",
+              "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+              "image": [
+                "/images/ep5.jpg"
+              ]
+            },
+            {
+              "episode": "Episode 2",
+              "title": "Cat's in the Bag...",
+              "description": "Walt and Jesse try to figure out what to do with the body of",
+              "image": [
+                "/images/ep6.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "season": "Season 2",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "title": "Pilot But Different",
+              "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+              "image": [
+                "/images/ep7.jpg"
+              ]
+            },
+            {
+              "episode": "Episode 2",
+              "title": "Cat's in the Bag But Different",
+              "description": "Walt and Jesse try to figure out what to do with the body of",
+              "image": [
+                "/images/ep8.jpg"
+              ]
+            },
+            {
+              "episode": "Episode 3",
+              "title": "Cat's in the Bag But Different",
+              "description": "Walt and Jesse try to figure out what to do with the body of",
+              "image": [
+                "/images/ep9.jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Money Heist",
+      "image": [
+        "/images/s3.jpg",
+        "/images/s1.jpg"
+      ],
+      "banner": "/images/banner3.jpg",
+      "description": "Yeah, but your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should...",
+      "information": {
+        "IMDB Rating": "5",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "Joss Whedon",
+        "Writer": "Joss Whedon",
+        "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+        "Producer": "Kevin Feige",
+        "Release Date": "4 May 2012",
+        "Language": "English",
+        "Subtitle": "English, Hindi, Tamil, Telugu"
+      },
+      "seasons": [
+        {
+          "id": "31",
+          "season": "Season 1",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "title": "Pilot",
+              "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+              "image": [
+                "/images/ep1.jpg"
+              ]
+            },
+            {
+              "episode": "Episode 2",
+              "title": "Cat's in the Bag...",
+              "description": "Walt and Jesse try to figure out what to do with the body of",
+              "image": [
+                "/images/ep2.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "32",
+          "season": "Season 2",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "title": "Pilot But Different",
+              "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+              "image": [
+                "/images/ep3.jpg"
+              ]
+            },
+            {
+              "episode": "Episode 2",
+              "title": "Cat's in the Bag But Different",
+              "description": "Walt and Jesse try to figure out what to do with the body of",
+              "image": [
+                "/images/ep4.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "season": "Season 3",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "title": "Pilot But Different",
+              "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+              "image": [
+                "/images/ep5.jpg"
+              ]
+            },
+            {
+              "episode": "Episode 2",
+              "title": "Cat's in the Bag But Different",
+              "description": "Walt and Jesse try to figure out what to do with the body of",
+              "image": [
+                "/images/ep6.jpg"
+              ]
+            },
+            {
+              "episode": "Episode 3",
+              "title": "Cat's in the Bag But Different",
+              "description": "Walt and Jesse try to figure out what to do with the body of",
+              "image": [
+                "/images/ep7.jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
